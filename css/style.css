@@ -370,7 +370,7 @@ h3 {
 }
 @media screen and (max-width: 375px) {
   .slider {
-    width: 250px;
+    max-width: 270px;
 }
   .img-slider {
     height: 160px;
