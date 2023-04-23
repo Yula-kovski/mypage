@@ -371,6 +371,7 @@ h3 {
 @media screen and (max-width: 375px) {
 .slider {
     max-width: 100%;
+    height: 200px;
 }
 /*   .slider {
     max-width: 300px;
